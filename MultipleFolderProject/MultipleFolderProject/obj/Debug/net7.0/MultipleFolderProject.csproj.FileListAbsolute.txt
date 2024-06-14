@@ -1,0 +1,14 @@
+D:\Repo\MultipleFolderProject\MultipleFolderProject\obj\Debug\net7.0\MultipleFolderProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\MultipleFolderProject\MultipleFolderProject\obj\Debug\net7.0\MultipleFolderProject.AssemblyInfoInputs.cache
+D:\Repo\MultipleFolderProject\MultipleFolderProject\obj\Debug\net7.0\MultipleFolderProject.AssemblyInfo.cs
+D:\Repo\MultipleFolderProject\MultipleFolderProject\obj\Debug\net7.0\MultipleFolderProject.csproj.CoreCompileInputs.cache
+D:\Repo\MultipleFolderProject\MultipleFolderProject\bin\Debug\net7.0\MultipleFolderProject.exe
+D:\Repo\MultipleFolderProject\MultipleFolderProject\bin\Debug\net7.0\MultipleFolderProject.deps.json
+D:\Repo\MultipleFolderProject\MultipleFolderProject\bin\Debug\net7.0\MultipleFolderProject.runtimeconfig.json
+D:\Repo\MultipleFolderProject\MultipleFolderProject\bin\Debug\net7.0\MultipleFolderProject.dll
+D:\Repo\MultipleFolderProject\MultipleFolderProject\bin\Debug\net7.0\MultipleFolderProject.pdb
+D:\Repo\MultipleFolderProject\MultipleFolderProject\obj\Debug\net7.0\MultipleFolderProject.dll
+D:\Repo\MultipleFolderProject\MultipleFolderProject\obj\Debug\net7.0\refint\MultipleFolderProject.dll
+D:\Repo\MultipleFolderProject\MultipleFolderProject\obj\Debug\net7.0\MultipleFolderProject.pdb
+D:\Repo\MultipleFolderProject\MultipleFolderProject\obj\Debug\net7.0\MultipleFolderProject.genruntimeconfig.cache
+D:\Repo\MultipleFolderProject\MultipleFolderProject\obj\Debug\net7.0\ref\MultipleFolderProject.dll

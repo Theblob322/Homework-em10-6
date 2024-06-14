@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repo\\MultipleFolderProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|d:\\repo\\multiplefolderproject\\multiplefolderproject\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|solutionrelative:multiplefolderproject\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|d:\\repo\\multiplefolderproject\\multiplefolderproject\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|solutionrelative:multiplefolderproject\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|d:\\repo\\multiplefolderproject\\multiplefolderproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|solutionrelative:multiplefolderproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|d:\\repo\\multiplefolderproject\\multiplefolderproject\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|solutionrelative:multiplefolderproject\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|d:\\repo\\multiplefolderproject\\multiplefolderproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DD5760-5BAF-4BC4-8F41-B00AE9ECF011}|MultipleFolderProject\\MultipleFolderProject.csproj|solutionrelative:multiplefolderproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\Post.cs",
+              "RelativeDocumentMoniker": "MultipleFolderProject\\Post.cs",
+              "ToolTip": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\Post.cs",
+              "RelativeToolTip": "MultipleFolderProject\\Post.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:00:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\Comment.cs",
+              "RelativeDocumentMoniker": "MultipleFolderProject\\Comment.cs",
+              "ToolTip": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\Comment.cs",
+              "RelativeToolTip": "MultipleFolderProject\\Comment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:00:38.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\User.cs",
+              "RelativeDocumentMoniker": "MultipleFolderProject\\User.cs",
+              "ToolTip": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\User.cs",
+              "RelativeToolTip": "MultipleFolderProject\\User.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:00:23.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\Blog.cs",
+              "RelativeDocumentMoniker": "MultipleFolderProject\\Blog.cs",
+              "ToolTip": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\Blog.cs",
+              "RelativeToolTip": "MultipleFolderProject\\Blog.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:00:06.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\Program.cs",
+              "RelativeDocumentMoniker": "MultipleFolderProject\\Program.cs",
+              "ToolTip": "D:\\Repo\\MultipleFolderProject\\MultipleFolderProject\\Program.cs",
+              "RelativeToolTip": "MultipleFolderProject\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:59:31.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
