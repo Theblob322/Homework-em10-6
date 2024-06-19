@@ -1,0 +1,14 @@
+D:\Git\.git\GenericProject\GenericProject\bin\Debug\net7.0\GenericProject.exe
+D:\Git\.git\GenericProject\GenericProject\bin\Debug\net7.0\GenericProject.deps.json
+D:\Git\.git\GenericProject\GenericProject\bin\Debug\net7.0\GenericProject.runtimeconfig.json
+D:\Git\.git\GenericProject\GenericProject\bin\Debug\net7.0\GenericProject.dll
+D:\Git\.git\GenericProject\GenericProject\bin\Debug\net7.0\GenericProject.pdb
+D:\Git\.git\GenericProject\GenericProject\obj\Debug\net7.0\GenericProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\.git\GenericProject\GenericProject\obj\Debug\net7.0\GenericProject.AssemblyInfoInputs.cache
+D:\Git\.git\GenericProject\GenericProject\obj\Debug\net7.0\GenericProject.AssemblyInfo.cs
+D:\Git\.git\GenericProject\GenericProject\obj\Debug\net7.0\GenericProject.csproj.CoreCompileInputs.cache
+D:\Git\.git\GenericProject\GenericProject\obj\Debug\net7.0\GenericProject.dll
+D:\Git\.git\GenericProject\GenericProject\obj\Debug\net7.0\refint\GenericProject.dll
+D:\Git\.git\GenericProject\GenericProject\obj\Debug\net7.0\GenericProject.pdb
+D:\Git\.git\GenericProject\GenericProject\obj\Debug\net7.0\GenericProject.genruntimeconfig.cache
+D:\Git\.git\GenericProject\GenericProject\obj\Debug\net7.0\ref\GenericProject.dll
